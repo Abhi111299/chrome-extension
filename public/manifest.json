@@ -1,0 +1,10 @@
+{
+    "name": "Scrap LinkedIn data",
+    "version": "1.0",
+    "description": "description your building",
+    "manifest_version": 2,
+    "browser_action":{
+       "default_icon": "logo192.png",
+       "popup": "index.html"
+    }
+ }
